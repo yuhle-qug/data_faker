@@ -649,3 +649,28 @@ AirlineID,IATACode,ICAOCode,Name,Country,CreatedAt,UpdatedAt
 648,JI,OOHI,Murphy LLC Airlines,French Guiana,1747376862,1747376862
 649,BI,MWHQ,Collins-Mills Airlines,Nauru,1747376862,1747376862
 650,CQ,,"White, Powell and Wheeler Airlines",Dominica,1747376862,1747376862
+651,SB,XKFP,Schwartz Ltd Airlines,Micronesia,2024-01-05T07:04:45,2023-11-03T11:03:23
+652,GP,BEXQ,"Johnson, Parrish and Buck Airlines",Latvia,2023-08-05T17:25:13,2024-09-20T03:54:50
+653,NJ,BYAN,Morrow Inc Airlines,Niger,2023-06-29T16:23:49,2025-04-13T03:16:54
+654,WG,HZZP,Bryant Inc Airlines,Tokelau,2024-05-01T15:47:55,2024-07-11T18:49:27
+655,QF,TOPP,Patterson-Kim Airlines,Ukraine,2024-11-24T03:10:32,2025-01-22T21:19:32
+656,GN,,Patton LLC Airlines,Hungary,2025-01-27T17:44:02,2023-07-06T05:53:38
+657,QO,JLBS,"May, Palmer and Silva Airlines",Fiji,2024-01-08T23:40:25,2023-09-05T21:39:09
+658,NS,JJSI,"Rangel, Martinez and Holland Airlines",Micronesia,2024-02-02T04:48:36,2023-07-06T21:25:45
+659,ZQ,KLTZ,Padilla LLC Airlines,Croatia,2023-07-16T03:53:07,2024-11-02T21:49:16
+660,LN,ZUED,Fleming Inc Airlines,Brunei Darussalam,2024-11-22T17:55:51,2025-04-08T23:39:37
+661,RF,FJDO,"Vargas, Cherry and Mason Airlines",Kazakhstan,2025-01-01T09:46:14,2025-03-26T23:09:00
+662,WT,BZRH,"Barker, Smith and Thomas Airlines",Greenland,2023-06-21T00:52:15,2025-04-03T11:28:28
+663,JX,,Scott PLC Airlines,Bangladesh,2023-10-15T17:07:06,2023-10-24T15:04:25
+664,RB,OVVL,Rodriguez Ltd Airlines,Botswana,2024-12-30T22:39:15,2024-02-29T17:34:25
+665,BB,OSRF,Trujillo-Shelton Airlines,Wallis and Futuna,2023-11-28T14:41:29,2024-06-03T09:36:14
+666,NC,FVMJ,"Warren, Ramirez and Watkins Airlines",Georgia,2024-02-02T08:56:28,2025-04-18T00:13:39
+667,UX,,Alvarado and Sons Airlines,Gibraltar,2025-01-09T05:39:09,2024-08-11T10:29:48
+668,RP,BLNQ,Mitchell PLC Airlines,Saudi Arabia,2023-08-09T04:21:39,2025-01-31T21:28:48
+669,QX,FISO,Wilson PLC Airlines,Kyrgyz Republic,2024-01-11T12:58:33,2024-02-27T12:54:34
+670,VL,HWFN,"Hall, Jackson and Wright Airlines",Timor-Leste,2025-02-02T15:26:05,2023-08-12T04:10:44
+671,HO,,Johnson Group Airlines,Iceland,2025-03-09T10:32:56,2023-07-09T06:59:26
+672,LV,AXJG,Martinez LLC Airlines,Denmark,2024-07-04T06:24:36,2024-02-28T22:29:46
+673,UW,VXYP,Saunders Inc Airlines,Aruba,2023-09-09T06:21:13,2023-09-03T02:04:32
+674,IN,TKXQ,"Aguilar, Parsons and Blackburn Airlines",Benin,2025-03-25T20:33:21,2024-12-04T13:02:08
+675,MC,NHEZ,"Jenkins, Smith and Wagner Airlines",Wallis and Futuna,2024-10-06T21:58:15,2025-04-17T09:44:09
